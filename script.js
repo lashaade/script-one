@@ -1,0 +1,16 @@
+const nameOfCountry = "Georgia";
+const continent = "Europe";
+const order =  3800000;
+const thisCountryIsAnIsland = false;
+console.log("Georgia");
+console.log(nameOfCountry);
+console.log(typeof nameOfCountry);
+console.log("Europe");
+console.log(continent);
+console.log(typeof continent);
+console.log(3800000);
+console.log(order);
+console.log(typeof order);
+console.log(false);
+console.log(thisCountryIsAnIsland);
+console.log(typeof thisCountryIsAnIsland);
